@@ -61,6 +61,8 @@ enum BITS {                    //
     Bit7 = 0x40,                // 
     //% block=10000000
     Bit8 = 0x80                 // 
+    //% block=11000000
+    Bit7_8 = 0xC0                 // 
 
 }
 /**
