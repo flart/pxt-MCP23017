@@ -62,8 +62,7 @@ enum BITS {                    //
     //% block=10000000
     Bit8 = 0x80                 // 
     //% block=11000000
-    Bit7_8 = 0xC0                 // 
-
+    Bit78 = 0xC0               //
 }
 /**
  * Benutzerdefinierte Blöcke
